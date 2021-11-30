@@ -1,1 +1,1 @@
-# Elasticsearch articles
+# Composable index templates
